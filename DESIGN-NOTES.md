@@ -1,0 +1,1 @@
+VTS Noir & Gold visual update. Original project uses Next.js 15 and ordinary CSS, not TanStack Router or Tailwind CSS 4. User-supplied design tokens, fonts, and button/card styling were adapted to this project. Hero photograph supplied by the user. Run npm install, npm run dev. Checkout and delivery remain inactive; verify licenses, operating hours and age before sales.

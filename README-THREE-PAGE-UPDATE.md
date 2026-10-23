@@ -1,0 +1,1 @@
+VTS three-page website: / Home; /shop filtered categories and basket; /experience themed brand and mixers page; /admin existing admin. Run npm install && npm run dev. All product photo previews remain non-purchasable until verified prices/stock are configured. Payment and Glovo integration not connected. Age confirmation is not a substitute for legally required identity checks.
